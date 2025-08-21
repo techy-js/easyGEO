@@ -1,0 +1,19 @@
+{
+  "name": "html2md-chrome-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension to convert HTML to Markdown",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "lint": "echo 'Add linting here if needed'"
+  },
+  "keywords": [
+    "chrome-extension",
+    "html",
+    "markdown",
+    "converter"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
